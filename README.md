@@ -1,5 +1,8 @@
 ## Hi there, It's me Joms👋
+<hr>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JOMARI%20GALLEROS%20-nl-Web%20Developer&reversal=true&textBg=false&fontColor=eda007&stroke=600&strokeWidth=1&descAlign=50&fontSize=60&section=footer&animation=twinkling" style="max-width: 100%;">
+</div>
 <hr>
 <img align="right" alt="Coding" width="1100" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
